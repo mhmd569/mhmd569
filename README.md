@@ -62,6 +62,6 @@ With a deep love for crafting clean, functional code, I excel in **JavaScript**,
 ## 🌟 Fun Counter
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahmoud-Odah&label=Profile%20Views&color=green&style=flat" alt="Profile Counter" style="margin: 5px;" />
-  <img src="https://img.shields.io/github/followers/Mahmoud-Odah?label=Followers&style=social" alt="GitHub Followers" style="margin: 5px;" />
+  <img src="https://komarev.com/ghpvc/?username=mhmd569&label=Profile%20Views&color=green&style=flat" alt="Profile Counter" style="margin: 5px;" />
+  <img src="https://img.shields.io/github/followers/mhmd569?label=Followers&style=social" alt="GitHub Followers" style="margin: 5px;" />
 </div>
